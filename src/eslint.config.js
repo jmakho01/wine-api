@@ -39,7 +39,7 @@ export default [
             "valid-typeof": "error",
 
             /* suggestions */
-            "arrow-body-style": ["warn", "as-needed"],
+            //"arrow-body-style": ["warn", "as-needed"],
             "block-scoped-var": "error",
             "camelcase": "warn",
             "complexity": "warn",
